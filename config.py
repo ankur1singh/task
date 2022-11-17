@@ -1,0 +1,6 @@
+import os
+
+class Config(object):
+    SECRET_KEY = os.environ.get('b\xec.\xf7}\n\x98\xf1\x0e\x0fs\xdb\xad\xc1e\xda\x1f\xa1\xe3m\xf5\xb1`\x91X'
+
+)
